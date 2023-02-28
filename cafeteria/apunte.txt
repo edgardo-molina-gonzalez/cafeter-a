@@ -1,0 +1,10 @@
+Para instalar Gulp se hace en modo desarrollo o en producción:
+
+
+Dependencia de desarrollo:
+-npm i --save-dev gulp
+
+Es importante crear el archivo gulpfile.js que gulp funcione
+
+Comando para utilizar sass y el compilador gulp:
+-npm i --save-dev sass gulp-sass
